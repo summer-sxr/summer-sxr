@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @summer-sxr
 - 👀 I’m interested in JavaScript & Web design
-- 💞️ 虽然每晚都会梦到你，但是我知道再也没机会了.
+- 💞️ 那就让它成为美好的回忆吧.
 
 <!---
 summer-sxr/summer-sxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
