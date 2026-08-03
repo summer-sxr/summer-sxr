@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @summer-sxr
-- 👀 I’m interested in JavaScript & Web design
+- 👀 I’m interested in AI Agent design
 
 <!---
 summer-sxr/summer-sxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
